@@ -152,7 +152,7 @@ Um dos principais benefícios do uso de fluxogramas é a facilidade de detecçã
 - OpenOffice.org Draw
 
 ## Meu fluxograma 
-![Descrição da Imagem](C:\Users\Aluno\Desktop\Captura de tela 2025-02-25 162804.png)
+![Descrição da Imagem](https://github.com/aliciasoares/Atividade06/blob/main/Captura%20de%20tela%202025-02-25%20162804.png?raw=true)
 
 ## Conclusão.
 Com essa pesquisa e a construção dos meus fluxogramas 
